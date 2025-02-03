@@ -1,0 +1,10 @@
+{
+	"name": "SimpleTimelineEditor",
+	"references": [
+		"SimpleTimeline"
+	],
+	"includePlatforms": [
+		"Editor"
+	],
+	"excludePlatforms": []
+}

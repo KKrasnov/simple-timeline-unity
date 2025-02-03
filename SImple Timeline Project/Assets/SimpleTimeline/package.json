@@ -1,0 +1,11 @@
+{
+    "name": "com.kkrasnov.simple-timeline-unity",
+    "version": "1.0.0",
+    "displayName": "Simple Timeline",
+    "description": "Simple Timeline for Unity",
+    "unity": "2022.2", 
+    "author": {
+      "name": "Andrii Kenia",
+      "email": "kurtkrasnov@gmail.com"
+    }
+  }
